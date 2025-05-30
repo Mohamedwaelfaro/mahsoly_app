@@ -6,7 +6,7 @@ plugins {
 }
 
 android {
-    ndkVersion = "29.0.13113456"
+    ndkVersion = "28.0.13004108"
     namespace = "com.example.mahsoly_app"
     compileSdk = flutter.compileSdkVersion
     ndkVersion = flutter.ndkVersion

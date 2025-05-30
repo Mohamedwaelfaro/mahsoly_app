@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_auth_app/screens/product_ad_details.dart';
+import 'package:flutter_auth_app/screens/details/product_ad_details.dart';
 
 class HomeUserScreen extends StatelessWidget {
   final List<Map<String, String>> products = [
